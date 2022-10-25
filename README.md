@@ -2,7 +2,7 @@
 
 I'm Williams,
 
-A  👨‍💻 Full Stack developer (currently learning solidity and rust )
+A  👨‍💻 Backend developer
 
 **Languages and tools**  
 
