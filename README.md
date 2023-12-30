@@ -17,6 +17,7 @@ A  👨‍💻 Backend developer
 
 
 ![Most Used  Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsgqdev&theme=tokyonight&layout=compact)
+ 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -24,12 +25,6 @@ A  👨‍💻 Backend developer
 <a href="mailto:williamsagbunu@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-williamsagbunu@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
-<a href="https://twitter.com/gq_williams">
-  <img align="left" alt="Williams  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/williams-agbunu-99607621b/">
-  <img align="left" alt="William's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 </div>
 
 
